@@ -1,0 +1,25 @@
+/*    /index.html   200
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NovaHosh - AI Solutions</title>
+  <style>
+    body { 
+      font-family: Arial, sans-serif; 
+      background: #0a0a0a; 
+      color: #f0f0f0; 
+      text-align: center; 
+      padding: 50px;
+    }
+    h1 { color: #00ffe5; }
+    p { color: #ccc; }
+  </style>
+</head>
+<body>
+  <h1>🚀 Welcome to NovaHosh</h1>
+  <p>Cutting-edge AI Solutions for Businesses</p>
+</body>
+</html>
